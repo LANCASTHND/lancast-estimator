@@ -1,0 +1,91 @@
+codigo,categoria,descripcion,unidad,precio_cd,precio_pu,fuente
+OP-001,Obras Preliminares,Replanteo topográfico y marcaje,M²,56.76,,La Paz 2024
+OP-002,Obras Preliminares,Trazado y marcado de calle,ML,12.98,68.41,Curaren 2024 / Cerro Grande 2025
+OP-003,Obras Preliminares,Descapote de área a intervenir,m²,53.52,,La Paz 2024
+OP-004,Obras Preliminares,Limpieza inicial de área,M2,40.36,,Cerro Grande 2025
+OP-005,Obras Preliminares,Descapote General,mz,35756,,PMR 2026
+OP-006,Obras Preliminares,Deshierbe / descapotaje e=5cm,m2,,50.97,Fichas PMR 2026
+OP-007,Obras Preliminares,Cerco perimetral de madera y lámina,ml,329.13,,La Paz 2024
+OP-008,Obras Preliminares,Bodega provisional,GLB,26730.20,,Cerro Grande 2025
+MT-001,Movimiento de Tierras,Escarificación (5 cm),m3,180,,PMR 2026
+MT-002,Movimiento de Tierras,Conformación con material de sitio,m2,45,,PMR 2026
+MT-003,Movimiento de Tierras,Corte de terreno / material con tractor,m3,200,26.73,PMR 2026 / Curaren 2024
+MT-004,Movimiento de Tierras,Relleno compactado con material de sitio,m3,250,,PMR 2026
+MT-005,Movimiento de Tierras,Relleno compactado con material selecto,M3,415.90,910.20,Curaren 2024 / Cerro Grande 2025
+MT-006,Movimiento de Tierras,Sub-base con material de sitio (20 cm),m3,260,,PMR 2026
+MT-007,Movimiento de Tierras,Suministro y colocación de sub-base,M3,336.65,,Curaren 2024
+MT-008,Movimiento de Tierras,Remoción capa vegetal (10 cm),m3,180,,PMR 2026
+MT-009,Movimiento de Tierras,Excavación terreno tipo I,M3,315.60,43.50,La Paz 2024 / Curaren 2024
+MT-010,Movimiento de Tierras,Retiro / botado de material (máx 3km),m3,215.28,356,La Paz 2024 / PMR 2026
+MT-011,Movimiento de Tierras,Acarreo de material con voqueta 5m3,M3,160.73,,Curaren 2024
+MT-012,Movimiento de Tierras,Conformación y Nivelación del Sitio,m2,180,207.43,PMR 2026 / Fichas
+CO-001,Concreto,Pavimento concreto hidráulico f'c=280 e=12.5cm,m3,5820,6696.19,PMR 2026 / Fichas
+CO-002,Concreto,Pavimento concreto hidráulico 4000 PSI e=15cm,M2,894.18,,Curaren 2024
+CO-003,Concreto,Concreto hidráulico 4000 PSI suministro,m3,4230,,Choloma 2026
+CO-004,Concreto,Firme de concreto interior e=7cm,M2,765.88,1110.61,La Paz 2024 / Cerro Grande 2025
+CO-005,Concreto,Losa de concreto e=5cm,M2,1291.91,2799.65,La Paz 2024 / Cerro Grande 2025
+CO-006,Concreto,Acera perimetral e=10cm 3000 PSI,m²,815.97,,La Paz 2024
+CO-007,Concreto,Bordillo de concreto 0.15x0.15m c/pintura,ml,394,437.12,PMR 2026 / La Paz 2024
+CO-008,Concreto,Zapata corrida ZC concreto+refuerzo,ml,975.71,1633.46,La Paz 2024 / Cerro Grande 2025
+CO-009,Concreto,Solera inferior S-1,ml,359.61,863.86,La Paz 2024 / Cerro Grande 2025
+CO-010,Concreto,Solera de cierre S-2/S-3,ml,429.43,652.99,La Paz 2024 / Cerro Grande 2025
+CO-011,Concreto,Castillo C-1 0.10x0.15m,ml,481.33,633.18,La Paz 2024 / Cerro Grande 2025
+CO-012,Concreto,Columna C-2 0.15x0.15m,ml,941.05,734.77,La Paz 2024 / Cerro Grande 2025
+CO-013,Concreto,Cortado de juntas de pavimento,ML,20.94,,Curaren 2024
+CO-014,Concreto,Capa arena/cemento 7% cemento,M3,1780.02,,Curaren 2024
+MA-001,Mampostería,Pared de bloque 6 c/mortero 1:4,m²,615.64,1081.98,La Paz 2024 / Cerro Grande 2025
+MA-002,Mampostería,Muro de bloque 8 refuerzo horizontal,m²,,1714.85,Cerro Grande 2025
+MA-003,Mampostería,Muro de bloque 4 para edificio,m²,516.79,,La Paz 2024
+MA-004,Mampostería,Muro de bloque c/cimiento y castillos h=3m,ml,2973,,PMR 2026
+MA-005,Mampostería,Muro de mampostería de piedra,M3,2775.91,,Curaren 2024
+MA-006,Mampostería,Enchape de piedra de río e=20cm,M2,573.96,,Curaren 2024
+MA-007,Mampostería,Repello de paredes 1:4,m²,167.48,272.00,La Paz 2024 / Cerro Grande 2025
+MA-008,Mampostería,Pulido de paredes,m²,125.59,173.37,La Paz 2024 / Cerro Grande 2025
+MA-009,Mampostería,Pintura acrílica de paredes,m²,142.15,219.22,La Paz 2024 / Cerro Grande 2025
+TM-001,Techos y Estructura Metálica,Estructura de techo metálica c/cubierta,m²,898.78,,La Paz 2024
+TM-002,Techos y Estructura Metálica,Cubierta de lámina galvanizada,m²,377.29,,La Paz 2024
+TM-003,Techos y Estructura Metálica,Aislante térmico 100mm,m²,259.56,,La Paz 2024
+TM-004,Techos y Estructura Metálica,Impermeabilización de losas de techo,M2,,378.06,Cerro Grande 2025
+AC-001,Acabados,Cerámica de piso,m²,1009.20,,La Paz 2024
+AC-002,Acabados,Porcelanato en pared de baño,M2,,1611.09,Cerro Grande 2025
+AC-003,Acabados,Piso pulido,M2,,1400.00,Cerro Grande 2025
+AC-004,Acabados,Cielo falso termoacústico,m²,643.16,1092.59,La Paz 2024 / Cerro Grande 2025
+AC-005,Acabados,Zócalo de cerámica e=10cm,ml,248.87,,La Paz 2024
+AC-006,Acabados,Adoquín ecológico,m2,1094,,PMR 2026
+JA-001,Jardines,Tierra orgánica e=10cm,m3,320,275.72,PMR 2026 / Fichas
+JA-002,Jardines,Grama Alfombra,m2,198,227.51,PMR 2026 / Fichas
+JA-003,Jardines,Mingos para jardín d=15cm,unidad,356,410.33,PMR 2026 / Fichas
+JA-004,Jardines,Mingos para lotes d=10cm,unidad,356,410.33,PMR 2026 / Fichas
+HI-001,Hidrosanitarias,Tubería PVC 1/2 SDR-13,ml,48.94,221.67,La Paz 2024 / Cerro Grande 2025
+HI-002,Hidrosanitarias,Tubería PVC 3/4 SDR-17,ml,51.84,130,La Paz 2024 / PMR 2026
+HI-003,Hidrosanitarias,Tubería PVC 1,ml,59.79,,La Paz 2024
+HI-004,Hidrosanitarias,Tubería PVC 2 SDR-41,ml,75.60,294.16,La Paz 2024 / Cerro Grande 2025
+HI-005,Hidrosanitarias,Tubería PVC 4 SDR-41,ml,116.88,418.03,La Paz 2024 / Cerro Grande 2025
+HI-006,Hidrosanitarias,Caja de registro 40x40x150cm,und,4537,5218.23,PMR 2026 / Fichas
+HI-007,Hidrosanitarias,Caja de registro 60x60cm,unidad,3396.11,4532.74,La Paz 2024 / Cerro Grande 2025
+HI-008,Hidrosanitarias,Grifo para agua potable 1/2,und,343,394.14,PMR 2026 / Fichas
+HI-009,Hidrosanitarias,Válvula de balín 3/4,und,383,595.78,PMR 2026 / La Paz 2024
+HI-010,Hidrosanitarias,Inodoro elongado,unidad,,8342.04,La Paz 2024
+HI-011,Hidrosanitarias,Lavamanos colgante,unidad,,6360.31,La Paz 2024
+HI-012,Hidrosanitarias,Cisterna 18m3,GLOBAL,,119866.89,La Paz 2024
+HI-013,Hidrosanitarias,Tubería PVC perfilada helicoidal 30,ML,5205.62,,Curaren 2024
+EL-001,Eléctricas,Salida eléctrica postes metálicos 4x4,unidad,4012,4614.27,PMR 2026 / Fichas
+EL-002,Eléctricas,Poste metálico 4x4 h=3m c/brazo,unidad,2436,2801.02,PMR 2026 / Fichas
+EL-003,Eléctricas,Luminaria LED 150W tipo cobra,unidad,7751,8913.31,PMR 2026 / Fichas
+EL-004,Eléctricas,Toma corriente doble 20 Amp. polarizado,unidad,2059.24,,La Paz 2024
+EL-005,Eléctricas,Interruptor sencillo 15 Amp.,unidad,764.15,,La Paz 2024
+EL-006,Eléctricas,Centro de carga 200 Amp. 42 espacios,global,27418.01,,La Paz 2024
+EL-007,Eléctricas,Lámpara interior LED 2x2 pies,unidad,1731.16,,La Paz 2024
+EL-008,Eléctricas,Poste de metal para exterior,unidad,14520.40,,La Paz 2024
+EL-009,Eléctricas,Aire acondicionado mini split 12000 BTU,Global,26339.46,,La Paz 2024
+EL-010,Eléctricas,Aire acondicionado mini split 24000 BTU,Global,39940.91,,La Paz 2024
+EL-011,Eléctricas,Generador con respaldo eléctrico,GLOBAL,522595.65,,La Paz 2024
+VI-001,Vialidad,Pintura de líneas de tráfico 10cm,ml,83.95,33.95,La Paz 2024 / Curaren 2024
+VI-002,Vialidad,Pintura de estacionamiento,unidad,488,560.73,PMR 2026 / Fichas
+VI-003,Vialidad,Cuneta c/media caña de concreto,ml,777.39,,La Paz 2024
+VI-004,Vialidad,Limpieza de calles acarreo 20m,M2,15.75,,Curaren 2024
+VI-005,Vialidad,Rotulo metálico pintado 3x4m,UND,14542.95,,Curaren 2024
+PV-001,Puertas y Ventanas,Muro cortina de aluminio,m²,6510,,La Paz 2024
+PV-002,Puertas y Ventanas,Puerta acceso corrediza metálica,unidad,,25220.20,Cerro Grande 2025
+PV-003,Puertas y Ventanas,Puerta de baño termoformada,unidad,5409,9082.30,La Paz 2024 / Cerro Grande 2025
+PV-004,Puertas y Ventanas,Portón perimetral de 5m,unidad,77010,,La Paz 2024

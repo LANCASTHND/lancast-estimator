@@ -114,7 +114,26 @@ Genera estimado preliminar."""
         messages=[{"role": "user", "content": user_msg}]
     )
     raw = response.content[0].text.strip().replace('```json','').replace('```','').strip()
-    return json.loads(raw)
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError as e:
+        print(f"[estimator] JSON parse error: {e}")
+        print(f"[estimator] Raw response (first 300 chars): {raw[:300]}")
+        # Return a safe fallback structure
+        return {
+            "tipo_contrato": "Obra",
+            "titulo_proyecto": project_info.get('titulo', 'Error'),
+            "institucion": project_info.get('institucion', ''),
+            "fecha_estimado": "",
+            "confianza": "Baja",
+            "motivo_confianza": f"Error de parsing JSON: {str(e)[:100]}",
+            "items": [],
+            "resumen": {"costo_directo": 0, "indirectos": 0, "utilidad": 0,
+                        "imprevistos": 0, "precio_oferta": 0,
+                        "precio_unitario_promedio": 0, "items_sin_precio": 0, "items_aproximados": 0},
+            "alertas": [f"ERROR: No se pudo parsear respuesta de Claude. {str(e)}"],
+            "recomendaciones": ["Revisar manualmente el cuadro de cantidades"]
+        }
 
 
 def format_email_html(est: Dict) -> str:
